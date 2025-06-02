@@ -1,4 +1,4 @@
-package week1.assignments.assignments;
+package week1.assignments;
 
 import java.util.NoSuchElementException;
 import java.util.Scanner;
