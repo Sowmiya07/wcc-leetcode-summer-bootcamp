@@ -1,4 +1,4 @@
-package week1.assignments;
+package phase1.assignments;
 
 public class SortedDuplicates {
 

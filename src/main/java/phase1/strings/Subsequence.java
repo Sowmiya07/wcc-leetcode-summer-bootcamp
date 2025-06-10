@@ -1,4 +1,4 @@
-package week1.strings;
+package phase1.strings;
 
 public class Subsequence {
     public static void main(String[] args) {

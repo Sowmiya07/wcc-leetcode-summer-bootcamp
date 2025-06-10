@@ -1,4 +1,4 @@
-package week1.arrays;
+package phase1.arrays;
 
 import java.util.HashMap;
 import java.util.Map;
