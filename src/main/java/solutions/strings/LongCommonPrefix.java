@@ -1,4 +1,4 @@
-package phase1.strings;
+package solutions.strings;
 
 public class LongCommonPrefix {
     public static void main(String[] args) {

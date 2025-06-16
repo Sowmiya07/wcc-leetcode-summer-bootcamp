@@ -1,4 +1,4 @@
-package phase1.arrays;
+package solutions.arrays;
 
 import java.util.HashMap;
 import java.util.Map;

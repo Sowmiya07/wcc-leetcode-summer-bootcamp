@@ -1,8 +1,8 @@
-package phase1.assignments;
+package solutions.assignments;
 
-import phase1.Node;
+import solutions.Node;
 
-import static phase1.Node.createLinkedList;
+import static solutions.Node.createLinkedList;
 
 public class LinkedListCycle {
     public static void main(String[] args) {

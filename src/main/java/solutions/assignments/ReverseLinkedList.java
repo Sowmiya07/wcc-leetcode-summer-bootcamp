@@ -1,6 +1,6 @@
-package phase1.assignments;
+package solutions.assignments;
 
-import phase1.Node;
+import solutions.Node;
 
 public class ReverseLinkedList {
     public static void main(String[] args) {

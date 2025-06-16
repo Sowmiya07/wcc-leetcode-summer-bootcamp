@@ -1,4 +1,4 @@
-package phase1.assignments;
+package solutions.assignments;
 
 import java.util.Scanner;
 

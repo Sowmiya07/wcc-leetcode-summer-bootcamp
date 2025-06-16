@@ -1,4 +1,4 @@
-package phase1.arrays;
+package solutions.arrays;
 
 public class BuySellStocks {
     public static void main(String[] args) {

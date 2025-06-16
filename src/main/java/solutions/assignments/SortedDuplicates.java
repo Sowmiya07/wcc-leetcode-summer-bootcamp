@@ -1,4 +1,4 @@
-package phase1.assignments;
+package solutions.assignments;
 
 public class SortedDuplicates {
 

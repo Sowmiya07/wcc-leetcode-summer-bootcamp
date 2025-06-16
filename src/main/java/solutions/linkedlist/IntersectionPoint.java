@@ -1,6 +1,6 @@
-package phase1.linkedlist;
+package solutions.linkedlist;
 
-import phase1.Node;
+import solutions.Node;
 
 public class IntersectionPoint {
     public static void main(String[] args) {
